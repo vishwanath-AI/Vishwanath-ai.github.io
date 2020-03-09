@@ -1,4 +1,4 @@
-# AI and cyber security cource work !!
+# AI and cyber security cource work
 
 Data Science:(Every topic here requries an induvial level of expertise)
 
