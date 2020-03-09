@@ -1,2 +1,7 @@
 theme: jekyll-theme-architect
 gem "github-pages", group: :jekyll_plugins
+
+title: [Research of Vish]
+description: [This is to develop an organization for AI and Cyber Space]
+
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
