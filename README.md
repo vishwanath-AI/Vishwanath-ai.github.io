@@ -35,3 +35,22 @@ Cyber Security:(Every topic here requries an induvial level of expertise)
 17. Digital Forensics
 18. Measuring cybersecurity
 19. Cybersecurity Economics(This leads to blockchain)
+
+Ethical Hacking for Beginners
+
+1. What is Hacking? Introduction & Types
+2. Potential Security Threats To Your Computer Systems
+3. Skills Required to Become a Ethical Hacker
+4. What is Social Engineering? Attacks, Techniques & Prevention
+5. Cryptography Tutorial: Cryptanalysis, RC4, CrypTool
+6. How to Crack a Password
+7. Worm, Virus & Trojan Horse: Ethical Hacking Tutorial
+8. Learn ARP Poisoning with Examples
+9. Wireshark Tutorial: Network & Passwords Sniffer
+10. How to Hack WiFi (Wireless) Network
+11. How to break into a Web Server
+12. How to break into a Website
+13. SQL Injection
+14. using Linux OS
+15. CISSP Certification Guide: What is, Prerequisites, Cost, CISSP Salary
+16. 10 Most Common Web Security Vulnerabilities
