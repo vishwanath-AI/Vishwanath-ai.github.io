@@ -1,6 +1,6 @@
 Open Source software developer working on Artifical Intelligence and Cyber Security.
 
-Gerard is an expert in software development practices and methodologies. He has developed and overseen projects and is considered by his peers as a real full-stack engineer. With a focus on delivering quality and secure solutions, he has been able to provide small to enterprise level customers solutions that met their needs.
+Vish is an expert in software development practices and methodologies. He has developed and overseen projects and is considered by his peers as a real full-stack engineer. With a focus on delivering quality and secure solutions, he has been able to provide small to enterprise level customers solutions that met their needs.
 
 He is a multi-disciplinary with excellent technical skills in a wide-range of principles; from software delivery, Continuous Integration, Continuous Delivery, and Deployment, to testing and performance tuning. An active consultant for Linux and Open Source and as part of this, he gives talks on software development and Open Source. He is experienced in transforming companies to benefit from an Open Source support and service business model.
 
