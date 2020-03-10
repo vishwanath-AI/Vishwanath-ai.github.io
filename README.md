@@ -25,7 +25,7 @@ Data Science:(Every topic here requries an induvial level of expertise)
 6. Learning theory
 7. Natural Language processing
 8. Selection of programming platforms
-9. Graphs and vvisualization
+9. Graphs and visualization
 10. Machine learning
 11. Robotics
 
