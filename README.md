@@ -54,3 +54,11 @@ Ethical Hacking for Beginners
 14. using Linux OS
 15. CISSP Certification Guide: What is, Prerequisites, Cost, CISSP Salary
 16. 10 Most Common Web Security Vulnerabilities
+
+Every thing below is an induvial topic and area to get specialized in pentesting.
+
+Application Security
+Network Security
+Social Engineering
+Physical Security
+Wireless Security
