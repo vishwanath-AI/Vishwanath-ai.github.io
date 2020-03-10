@@ -1,5 +1,3 @@
-# AI and cyber security cource work
-
 Open Source software developer working on Artifical Intelligence and Cyber Security.
 
 Gerard is an expert in software development practices and methodologies. He has developed and overseen projects and is considered by his peers as a real full-stack engineer. With a focus on delivering quality and secure solutions, he has been able to provide small to enterprise level customers solutions that met their needs.
