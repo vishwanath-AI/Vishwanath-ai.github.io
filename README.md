@@ -57,7 +57,7 @@ Ethical Hacking for Beginners
 
 Every thing below is an induvial topic and area to get specialized in pentesting.
 
-Application Security
+Application Security,
 Network Security,
 Social Engineering,
 Physical Security,
